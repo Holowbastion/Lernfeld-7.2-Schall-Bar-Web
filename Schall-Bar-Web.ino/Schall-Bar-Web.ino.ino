@@ -5,8 +5,8 @@
 #include <WebServer.h>
  
 // --- KONFIGURATION WLAN ---
-const char* ssid = "OvM-Raspi";
-const char* password = "abcD1234";
+const char* ssid = "***";
+const char* password = "***";
 
 // Webserver auf Port 80
 WebServer server(80);
